@@ -1,0 +1,150 @@
+* {
+   font-family: lato;
+   box-sizing: border-box;
+}
+
+#nav {
+   width: 1140px;
+   margin: 0 auto;
+   padding: 12px 80px;
+   margin-bottom: 221px;
+}
+
+#next {
+   display: inline-block;
+   margin-bottom: -18px;
+   margin-right: 18%;
+}
+
+#ul {
+   padding: 0;
+   margin: 0;
+   list-style-type: none;
+   display: inline-block;
+   margin-bottom: 20px;
+   text-align: center;
+}
+
+#li1,#li2,#li3,#li4{
+   display: inline-block;
+   margin-right: 20px;
+   font-size: 18px;
+}
+
+#li1 {
+   color: #FF5DA3;
+}
+
+#contact {
+   display: inline-block;
+   padding: 5px 10px;
+   margin-left: 18%;
+   border-radius: 8px;
+   border: 1px solid #AC00FF;
+   background: #E9D7FE;
+   color: #AC00FF;
+   font-size: 14px;
+}
+
+#teacherdiv {
+   width: 1316px;
+   margin: 0 auto;
+
+}
+
+#teacherh1,#instructorh1 {
+   color: #000000;
+   text-align: center;
+   font-family: Inter;
+   font-style: normal;
+   font-size: 72px;
+   margin-top: 10px;
+   margin-bottom: 20px;
+
+}
+
+#instructorh1 {
+   color: #FF5DA3;
+}
+
+#teacherp {
+   color: #000;
+   text-align: center;
+   font-size: 24px;
+   line-height: 32px;
+}
+
+#enjoyh1 {
+   color: #000;
+   text-align: center;
+   font-size: 48px;
+   margin-top: 20px;
+}
+
+#enjoyp {
+   color: #6941C6;
+   text-align: center;
+   font-size: 24px;
+   width: 716px;
+   margin: 20px auto;
+}
+
+#instructorbtn {
+   padding: 16px 24px;
+   border-color:#00AC25;
+   border-radius: 8px;
+   background: #00AC25;
+   color: #FFF;
+   font-family: Inter;
+   font-size: 18px;
+   display:block;
+   margin:0 auto;
+}
+
+
+
+
+
+#footerdiv{
+   background-color:#53389E;
+   color:white;
+   height:128px;
+   font-size:16px;
+   
+}
+
+#footercontent{
+   width:1216px;
+   margin:0 auto;
+}
+
+
+
+
+
+#footerimg {
+   margin-right:15%;
+   margin-bottom:;
+   margin-top:40px;
+   display:inline-block;
+}
+
+#footerul {
+   padding: 0;
+   list-style-type: none;
+   display: inline-block;
+   margin-top:;
+margin-bottom:;
+}
+
+#footerli1,#footerli2,#footerli3,#footerli4,#footerli5,#footerli6, #footerp{
+   display: inline-block;
+   margin-right: 20px;
+   font-size: 18px;
+   font-size: 16px;
+   
+}
+
+#footerp {
+   margin-left:15%;
+}
