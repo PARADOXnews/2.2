@@ -3,6 +3,11 @@
    box-sizing: border-box;
 }
 
+body {
+   padding:0;
+   margin:0;
+}
+
 #nav {
    width: 1140px;
    margin: 0 auto;
@@ -49,7 +54,7 @@
 #teacherdiv {
    width: 1316px;
    margin: 0 auto;
-
+   height:543px
 }
 
 #teacherh1,#instructorh1 {
@@ -104,47 +109,42 @@
 
 
 
-
-#footerdiv{
-   background-color:#53389E;
-   color:white;
-   height:128px;
-   font-size:16px;
-   
+#footerdiv {
+   margin-top:535px;
+   background-color: #53389E;
+   color: white;
+   height: 128px;
+   font-size: 16px;
+   padding-top:40px;
 }
 
-#footercontent{
-   width:1216px;
-   margin:0 auto;
+#footercontent {
+   width: 1216px;
+   margin: 0 auto;
+   text-align: center;
 }
-
-
-
-
 
 #footerimg {
-   margin-right:15%;
-   margin-bottom:;
-   margin-top:40px;
-   display:inline-block;
+   margin-right: 15%; 
+   height: 32px;
+   display: inline-block;
+   vertical-align: middle; /* vertical align movidzie da ravi mainc gamoviyene mis gareshe ubralod 5-10pixelit magla adioda foto da ravi */
 }
 
 #footerul {
    padding: 0;
    list-style-type: none;
    display: inline-block;
-   margin-top:;
-margin-bottom:;
+   margin: 0; 
 }
 
-#footerli1,#footerli2,#footerli3,#footerli4,#footerli5,#footerli6, #footerp{
+#footerli1, #footerli2, #footerli3, #footerli4, #footerli5, #footerli6, #footerp {
    display: inline-block;
    margin-right: 20px;
-   font-size: 18px;
-   font-size: 16px;
-   
+   font-size: 16px; 
+   vertical-align: middle; 
 }
 
 #footerp {
-   margin-left:15%;
+   margin-left: 15%; 
 }
